@@ -1,0 +1,8 @@
+com\info\dao\Idao.class
+com\info\controller\DeleteServlet.class
+com\info\model\Student.class
+com\info\controller\LoginServlet.class
+com\info\controller\updateServlet.class
+com\info\daoimpl\Daoimpl.class
+com\info\utility\HibernateUtility.class
+com\info\controller\RegisterServlet.class
